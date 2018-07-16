@@ -1,0 +1,17 @@
+
+body {
+    background-color: #1a1a1a;
+}
+
+#canvas {
+    background-color: #006f5e;
+}
+
+#logbox{
+    color: #006f5e;
+    margin: 30px;
+    font-size: 1.6em;
+    border-top: 1px solid #575757;
+    word-wrap: break-word;
+    overflow-y: auto;
+}
